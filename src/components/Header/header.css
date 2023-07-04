@@ -1,0 +1,31 @@
+
+.scroll-component{
+    overflow: hidden;
+}
+
+@keyframes scrollAnimation {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(-100%);
+    }
+}
+
+.user-menu-profile{
+    display: none;
+}
+
+.scroll-container {
+    animation: scrollAnimation 20s linear infinite;
+}
+
+@media screen and (max-width:780px) {
+    .menu-auth-buttons{
+        display: none;
+    }
+    .user-menu-profile{
+        display: block;
+    }
+}

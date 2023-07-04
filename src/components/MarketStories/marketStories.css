@@ -1,0 +1,15 @@
+.stories-post-scroll::-webkit-scrollbar {
+    width: 0.5em;
+    height: 100px;
+}
+
+/* Track */
+.stories-post-scroll::-webkit-scrollbar-track {
+    background: #e4e4e4;
+}
+
+
+.stories-post-scroll::-webkit-scrollbar-thumb {
+    background-color: #ffffff;
+    border-radius: 20px;
+}
