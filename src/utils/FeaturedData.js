@@ -1,36 +1,36 @@
-import amazomImage from '../assests/amazon.png';
-import appleImage from '../assests/apple.jpg';
-import facebookImage from '../assests/facebook.png';
-import googleImage from '../assests/google.png';
-import intelImage from '../assests/intel.png';
-import microsoftImage from '../assests/microsoft.jpg';
-import netflixImage from '../assests/netflix.png';
-import teslaImage from '../assests/tesla.png';
+import amazomImage from '../assets/amazon.png';
+import appleImage from '../assets/apple.jpg';
+import facebookImage from '../assets/facebook.png';
+import googleImage from '../assets/google.png';
+import intelImage from '../assets/intel.png';
+import microsoftImage from '../assets/microsoft.jpg';
+import netflixImage from '../assets/netflix.png';
+import teslaImage from '../assets/tesla.png';
 
 export const FeaturedData = [
   {
-    imageUrl: amazomImage,
+    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/603px-Amazon_logo.svg.png",
   },
   {
-    imageUrl: appleImage,
+    imageUrl:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-gMC1_MWe4bKL-NO6u5zAp2t3TAKiMUogiPNz8mJMjg2-kshA",
   },
   {
-    imageUrl: facebookImage,
+    imageUrl: "https://t1.gstatic.com/images?q=tbn:ANd9GcRVE-kpFBr3HtkAQkWdg9mKnyrcdazoZgH_Bv1GR3xnthSRZMxB",
   },
   {
-    imageUrl: googleImage,
+    imageUrl: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIut54CX-LXvlXqqc4gZpH7kfpGCArVS3ZVAiQevtBt2Xeks7U",
   },
   {
-    imageUrl: intelImage,
+    imageUrl: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5qAtIeA7RugBxRABXWGAsVedQL2Ewdv_DTCVR6V5L-fKnl6_2",
   },
   {
-    imageUrl: microsoftImage,
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtGjuMPo-YmivRQu0yxkrkv7UO7bxsgCtMjQtCApfPueiy8RjH",
   },
   {
-    imageUrl: netflixImage,
+    imageUrl: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRl10bviEYldVvM6zu8SvAT4rFcVvO5kSslfHktuATKxNf4CkoH",
   },
   {
-    imageUrl: teslaImage,
+    imageUrl: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSYHVUcMVZjTrKfer1HGBiMUCGuE5BAWdxci4Rtyvw9e8E0vK6",
   },
   {
     imageUrl: facebookImage,
